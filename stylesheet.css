@@ -1,0 +1,54 @@
+.headline {
+  color: #a652fe;
+  text-align: center;
+  font-family: "Share Tech Mono", monospace;
+  font-size: 30px;
+}
+.headline2 {
+  font-family: "Share Tech Mono", monospace;
+  text-align: center;
+  font-size: 2rem;
+}
+#links {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+ul {
+  font-size: 0.8rem;
+}
+hr {
+  border: 5px solid #502f4a;
+}
+#heading {
+  border: solid #a652fe;
+  border-width: 20px 10px;
+  background-color: azure;
+  margin: 40px;
+  padding: 20px;
+}
+
+.master {
+  float: left;
+  margin: 0px 20px;
+}
+
+.bachelor {
+  margin: 0px 20px;
+}
+img .master-logo {
+  float: left;
+}
+
+img .bachelor-logo {
+  float: left;
+}
+p .master-degree {
+  float: right;
+}
+.project-exp {
+  clear: both;
+}
+.hide-all {
+  display: none;
+}
